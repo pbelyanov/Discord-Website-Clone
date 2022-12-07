@@ -217,3 +217,8 @@ nav div {
     border-radius: 50px;
     font-size: 20px;
 }
+
+#footer {
+    height: 511px;
+    background-color: #23272a;
+}
